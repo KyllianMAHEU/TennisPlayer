@@ -26,6 +26,7 @@ Afin de tester les différentes requêtes, vous devez cliquer sur une requête p
 
 Je n'ai pas de compte Azure DevOps pro. Je ne peux pas build la Pipeline qui me permet d'host l'applciation sur le cloud.
 Une demande est réalisable mais elle n'est effectué qu'au bout d'une semaine. Au vu des délai, je n'ai pas eu de réponse.
+
 ![image](https://github.com/user-attachments/assets/0233be94-ac40-428b-a584-2c59ea8e4203)
 
 Une autre solution a ce problème aurait été d'héberger en local un agent pour le cloud, mais cela requiert de le faire sur chaque poste qui veut tester l'application
